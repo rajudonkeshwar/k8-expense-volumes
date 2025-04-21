@@ -1,0 +1,3 @@
+To set our own name space as default name space use below command 
+
+kubectl config set-context --current --namespace=my-namespace
